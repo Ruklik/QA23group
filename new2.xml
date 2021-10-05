@@ -3,4 +3,6 @@
 	<age>100</age>
 	<pets>2</pets>
 	<salary>5000</salary>
+	<film>First</film>
+	<food>Apple</food>
 </user>
