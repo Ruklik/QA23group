@@ -2,5 +2,7 @@
 	"name":"Leeroy Jenkins",
 	"age":100,
 	"pets":2,
-	"salary":5000
+	"salary":5000,
+	"film":"First",
+	"food":"Apple"
 }
