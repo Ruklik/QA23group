@@ -1,4 +1,0 @@
-1) name is Leeroy Jenkins
-2) age is 100
-3) pets=2
-4)5000
